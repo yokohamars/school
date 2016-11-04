@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja-JP">
+
+<!--#include file="yrs_header.html"-->
+
+<body>
+
+<h1>横浜ラグビースクール</h1>
+<div id="Container">
+
+<div id="Header"> 
+
+<div id="logo"><a href="http://yrs.boy.jp/"><img src="img/logo.gif" alt="横浜ラグビースクール"></a></div>
+<div id="head_link">
+<ul>
+<li><a href="sitemap.html">サイトマップ</a></li>
+<li><a href="privacy.html">プライバシーポリシー</a></li>
+<li><a href="mailto:yrs@ug.boy.jp">お問合わせ</a></li>
+
+</ul>
+</div>
+</div>
+
+<div id="Navi">
+<ul>
+<li id="n01"><a href="http://yrs.boy.jp/">トップページへ</a></li>
+<li id="n02"><a href="./info.html">スクール紹介</a></li>
+<li id="n03"><a href="/schedule.html">練習日程</a></li>
+<li id="n04"><a href="./result.html">試合結果</a></li>
+<li id="n05"><a href="./coach/coach.html">指導員用ページ</a></li>
+<li id="n06"><a href="./photo.html">集合写真</a></li>
+<li id="n07"><a href="./link.html">リンク集</a></li>
+<li id="n08"><a href="http://www.yokohama-rs.com/" target="_blank">ブログ</a></li>
+</ul>
+</div>
+
+<div id="Main">
+<div id="left">
+<ul>
+<li class="sb11"><a href="./info.html">スクール紹介</a></li>
+<li class="sb12"><a href="./chart.html">組織図</a></li>
+<li class="sb13"><a href="./schedule.html">年間スケジュール</a></li>
+<li class="sb14"><a href="./staff.html">指導員紹介</a></li>
+<li class="sb15"><a href="./guidance.html">指導概要</a></li>
+<li class="sb16"><a href="./safe.html">安全</a></li>
+<li class="sb17"><a href="./column.html">コラム</a></li>
+<li class="sb18"><a href="./ground.html">グラウンド</a></li>
+<li class="sb19"><a href="./entrance.html">入校申し込み</a></li>
+</ul>
+<div id="schedule"><a href="./schedulem.html">練習日程</a></div>
+<ul>
+<li class="sb30"><a href="./keitai.html">携帯での使用方法</a></li>
+<li class="sb00"><a href="bbs/photo01/photo.cgi">画像掲示板</a></li>
+<li class="sb01"><a href="bbs/mobile01/index.html">全体掲示板</a></li>
+<li class="sb02"><a href="bbs/mobile02/index.html">忘れ物掲示板</a></li>
+<li class="sb03"><a href="bbs/mobile03/index.html">幼稚園クラス</a></li>
+<li class="sb04"><a href="bbs/mobile04/index.html">小学1年生クラス</a></li>
+<li class="sb05"><a href="bbs/mobile05/index.html">小学2年生クラス</a></li>
+<li class="sb06"><a href="bbs/mobile06/index.html">小学3年生クラス</a></li>
+<li class="sb07"><a href="bbs/mobile07/index.html">小学4年生クラス</a></li>
+<li class="sb08"><a href="bbs/mobile08/index.html">小学5年生クラス</a></li>
+<li class="sb09"><a href="bbs/mobile09/index.html">小学6年生クラス</a></li>
+<li class="sb10"><a href="bbs/mobile10/index.html">中年生クラス</a></li>
+<li class="sb20"><a href="bbs/mobile20/index.html">女子部</a></li>
+</ul>
+<div id="Entrance"><a href="entrance.html">入校案内</a></div>
+</div>
+
+
+<!--#include file="staff_tab.html"-->
+<br>
+<div style="background-color:#8B0000;color:#FFFFFF;">
+<div align="center">2015年度指導員全員</div></font></div>
+<br>
+
+<!--#include file="./staff/AkiraWatanabe.html"-->
+<!--#include file="./staff/AkiyaKatayama.html"-->
+<!--#include file="./staff/AtsushiYoshitugu.html"-->
+<!--#include file="./staff/AtuhiroNakamoto.html"-->
+<!--#include file="./staff/ChikaraIwata.html"-->
+<!--#include file="./staff/DaisukeKoike.html"-->
+<!--#include file="./staff/DaisukeYamada.html"-->
+<!--#include file="./staff/DaisukeYamaguchi.html"-->
+<!--#include file="./staff/DaizaburouYokoo.html"-->
+<!--#include file="./staff/EtsuyaShimada.html"-->
+<!--#include file="./staff/FumihikoInoue.html"-->
+<!--#include file="./staff/GorouMizuguchi.html"-->
+<!--#include file="./staff/HideakiMimura.html"-->
+<!--#include file="./staff/HidemasaNegishi.html"-->
+<!--#include file="./staff/HidemitsuNoguchi.html"-->
+<!--#include file="./staff/HidetoshiSugishima.html"-->
+<!--#include file="./staff/HiroakiSakai.html"-->
+<!--#include file="./staff/HirokiWada.html"-->
+<!--#include file="./staff/HiromiJisya.html"-->
+<!--#include file="./staff/HiroshiMoriguchi.html"-->
+<!--#include file="./staff/HiroshiWatanabe.html"-->
+<!--#include file="./staff/HirosiWatanabe.html"-->
+<!--#include file="./staff/HirotuguMuramatsu.html"-->
+<!--#include file="./staff/HiroyukiOzaki.html"-->
+<!--#include file="./staff/HiroyukiTakai.html"-->
+<!--#include file="./staff/HisayukiTomoe.html"-->
+<!--#include file="./staff/IsaoYamaguchi.html"-->
+<!--#include file="./staff/IsseiKametani.html"-->
+<!--#include file="./staff/IzumiIshii.html"-->
+<!--#include file="./staff/JyunHikosaka.html"-->
+<!--#include file="./staff/JyunSuda.html"-->
+<!--#include file="./staff/KanKagaya.html"-->
+<!--#include file="./staff/KazuhikoNiikura.html"-->
+<!--#include file="./staff/KazuyukiHayashi.html"-->
+<!--#include file="./staff/KeitaKimura.html"-->
+<!--#include file="./staff/KeitaUeki.html"-->
+<!--#include file="./staff/KenichiKawada.html"-->
+<!--#include file="./staff/KenichiMiura.html"-->
+<!--#include file="./staff/KenjiKuwabara.html"-->
+<!--#include file="./staff/KenkichiWatanabe.html"-->
+<!--#include file="./staff/KennyNoguchi.html"-->
+<!--#include file="./staff/KinyaKurokawa.html"-->
+<!--#include file="./staff/KiyotakaIsshiki.html"-->
+<!--#include file="./staff/KouichiKitamura.html"-->
+<!--#include file="./staff/KouichiSawamura.html"-->
+<!--#include file="./staff/KoujiTakyuu.html"-->
+<!--#include file="./staff/KyouichiTakehana.html"-->
+<!--#include file="./staff/MakiNakagawa.html"-->
+<!--#include file="./staff/MakitoOgawa.html"-->
+<!--#include file="./staff/MakotoOosawa.html"-->
+<!--#include file="./staff/MakotoTakeda.html"-->
+<!--#include file="./staff/MakotoTsuda.html"-->
+<!--#include file="./staff/MakotoTsunoda.html"-->
+<!--#include file="./staff/MamoruTanimoto.html"-->
+<!--#include file="./staff/MasafumiSakamoto.html"-->
+<!--#include file="./staff/MasafumiYoshida.html"-->
+<!--#include file="./staff/MasahikoSaito.html"-->
+<!--#include file="./staff/MasahiroAmemiya.html"-->
+<!--#include file="./staff/MasahisaKawano.html"-->
+<!--#include file="./staff/MasakiAdachi.html"-->
+<!--#include file="./staff/MasakiKobayashi.html"-->
+<!--#include file="./staff/MasanaoNasu.html"-->
+<!--#include file="./staff/MasaoHirano.html"-->
+<!--#include file="./staff/MasaoKatsuta.html"-->
+<!--#include file="./staff/MasaruSuzaki.html"-->
+<!--#include file="./staff/MasatakaFukui.html"-->
+<!--#include file="./staff/MasatoAsaoka.html"-->
+<!--#include file="./staff/MasatoshiNiiyama.html"-->
+<!--#include file="./staff/MasatoshiTomisu.html"-->
+<!--#include file="./staff/MasayaKinoshita.html"-->
+<!--#include file="./staff/MinoruKubokawa.html"-->
+<!--#include file="./staff/MituruFukuchi.html"-->
+<!--#include file="./staff/MorimichiHirukawa.html"-->
+<!--#include file="./staff/NaohiroSakaguchi.html"-->
+<!--#include file="./staff/NaokiEndo.html"-->
+<!--#include file="./staff/NarukazuTakehana.html"-->
+<!--#include file="./staff/NobuhikoKawashima.html"-->
+<!--#include file="./staff/NobutakaSiojima.html"-->
+<!--#include file="./staff/NorioNedate.html"-->
+<!--#include file="./staff/RieNohata.html"-->
+<!--#include file="./staff/RihitoNakamura.html"-->
+<!--#include file="./staff/RintarouMatsuo.html"-->
+<!--#include file="./staff/RyuichiUshiku.html"-->
+<!--#include file="./staff/RyujiSuzuki.html"-->
+<!--#include file="./staff/RyuKikkawa.html"-->
+<!--#include file="./staff/RyuziNozaki.html"-->
+<!--#include file="./staff/SakaeTonokawa.html"-->
+<!--#include file="./staff/SatoruNakanishi.html"-->
+<!--#include file="./staff/SatoshiTsuchihira.html"-->
+<!--#include file="./staff/SeiichiSuzuki.html"-->
+<!--#include file="./staff/SeijiTakahashi.html"-->
+<!--#include file="./staff/ShinyaGotou.html"-->
+<!--#include file="./staff/ShougoInokuchi.html"-->
+<!--#include file="./staff/ShougoTomoe.html"-->
+<!--#include file="./staff/SingoNakano.html"-->
+<!--#include file="./staff/SinichiOketani.html"-->
+<!--#include file="./staff/SinichiSakakiyama.html"-->
+<!--#include file="./staff/SousukeHayashi.html"-->
+<!--#include file="./staff/SyuujiKinjyou.html"-->
+<!--#include file="./staff/SyuutaOzawa.html"-->
+<!--#include file="./staff/TadashiTachibana.html"-->
+<!--#include file="./staff/TadasiUmayahara.html"-->
+<!--#include file="./staff/TakahiroWashizuka.html"-->
+<!--#include file="./staff/TakaoYamazaki.html"-->
+<!--#include file="./staff/TakashiFukui.html"-->
+<!--#include file="./staff/TakashiNohata.html"-->
+<!--#include file="./staff/TakayukiKamioka.html"-->
+<!--#include file="./staff/TakeshiKatou.html"-->
+<!--#include file="./staff/TakeshiWatanabe.html"-->
+<!--#include file="./staff/TakioHanzawa.html"-->
+<!--#include file="./staff/TakuAoki.html"-->
+<!--#include file="./staff/TakuyaNomoto.html"-->
+<!--#include file="./staff/TamitoHosoyamada.html"-->
+<!--#include file="./staff/TatsurouTanaka.html"-->
+<!--#include file="./staff/TeijiShimizu.html"-->
+<!--#include file="./staff/TetsuyaKuroki.html"-->
+<!--#include file="./staff/TeturouZanto.html"-->
+<!--#include file="./staff/TetushiKamiya.html"-->
+<!--#include file="./staff/text.txt"-->
+<!--#include file="./staff/TomohiroShimo.html"-->
+<!--#include file="./staff/TomokazuKanou.html"-->
+<!--#include file="./staff/TomoyasuMochida.html"-->
+<!--#include file="./staff/TomoyukiYasuda.html"-->
+<!--#include file="./staff/ToshihiroNishi.html"-->
+<!--#include file="./staff/ToshioWaseda.html"-->
+<!--#include file="./staff/ToshiyaMori.html"-->
+<!--#include file="./staff/ToshiyukiKawano.html"-->
+<!--#include file="./staff/ToshiyukiKouno.html"-->
+<!--#include file="./staff/ToshiyukiSuzuki.html"-->
+<!--#include file="./staff/TosinaoHonma.html"-->
+<!--#include file="./staff/TuneyukiKoyasu.html"-->
+<!--#include file="./staff/TuyoshiKitano.html"-->
+<!--#include file="./staff/WataruShimizu.html"-->
+<!--#include file="./staff/Yamadasann.html"-->
+<!--#include file="./staff/YasukazuSasaki.html"-->
+<!--#include file="./staff/YasunoriHara.html"-->
+<!--#include file="./staff/YasuoEndo.html"-->
+<!--#include file="./staff/YasutakaIshibashi.html"-->
+<!--#include file="./staff/YasuyukiIchinose.html"-->
+<!--#include file="./staff/YoshiakiTakakura.html"-->
+<!--#include file="./staff/YoshieSato.html"-->
+<!--#include file="./staff/YoshinoriEbihara.html"-->
+<!--#include file="./staff/YoshitakaHaruno.html"-->
+<!--#include file="./staff/YoshiyukiMatsuo.html"-->
+<!--#include file="./staff/YosisigeHatano.html"-->
+<!--#include file="./staff/YosiyukiMarumoto.html"-->
+<!--#include file="./staff/YouichiNakagawa.html"-->
+<!--#include file="./staff/YoujiMiyagawa.html"-->
+<!--#include file="./staff/YuuichirouYamada.html"-->
+<!--#include file="./staff/YuujiIshii.html"-->
+<!--#include file="./staff/YuusukeOkada.html"-->
+<!--#include file="./staff/YuutoFukui.html"-->
+<!--#include file="./staff/YuzuruSato.html"-->
+
+<!--#include file="yrs_footer.html"-->
+
+</body>
+</html>

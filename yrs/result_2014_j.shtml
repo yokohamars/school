@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja-JP">
+<!--#include file="yrs_header_result.html"-->
+<body>
+<!--#include file="result_header.html"-->
+		<div id="center">
+			<h2>試合結果</h2>
+			<IMG SRC="./img/2014.png">
+			<div align="center">
+				<p class="classNavi">　｜
+					<a href="result_2010_j.html">2010年度</a>　｜
+					<a href="result_2011_j.html">2011年度</a>　｜
+					<a href="result_2012_j.html">2012年度</a>　｜
+					<a href="result_2013_j.shtml">2013年度</a>　｜
+					<a href="result_2014_j.shtml">2014年度</a>　｜
+				</p>
+				<p class="classNavi">　｜
+					<a href="result_2014_y.shtml">幼稚園</a>　｜
+					<a href="result_2014_1.shtml">小1</a>　｜
+					<a href="result_2014_2.shtml">小2</a>　｜
+					<a href="result_2014_3.shtml">小3</a>　｜
+					<a href="result_2014_4.shtml">小4</a>　｜
+					<a href="result_2014_5.shtml">小5</a>　｜
+					<a href="result_2014_6.shtml">小6</a>　｜
+					<a href="result_2014_j.shtml">Jr</a>　｜
+				</p>
+			</div>
+			<div class="result">
+				<h3>ジュニア<img src="./img/new.gif"></h3>
+<br>
+<!--#include file="./result/2014_jr_20150125.html"-->
+<br>
+<!--#include file="./result/2014_jr_20141103.html"-->
+<br>
+<!--#include file="./result/2014_jr_20141026.html"-->
+<br>
+<!--#include file="./result/2014_jr_20141013.html"-->
+<br>
+<!--#include file="./result/2014_jr_20141012.html"-->
+<br>
+<!--#include file="./result/2014_jr_20141005.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140928.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140923.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140921.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140915.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140914.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140913.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140616.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140615.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140518.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140429.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140420.html"-->
+<br>
+<!--#include file="./result/2014_jr_20140329.html"-->
+<br>
+			</div>
+		</div>
+	</div>
+</div>
+<!--#include file="yrs_footer_result.html"-->
+</body>
+</html>

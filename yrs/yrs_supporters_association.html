@@ -1,0 +1,261 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"N
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja-JP">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	
+	<title>横浜ラグビースクール</title>
+	
+	<link href="css/reset.css" rel="stylesheet" type="text/css">
+	<link href="css/default.css" rel="stylesheet" type="text/css">
+	<link href="css/left.css" rel="stylesheet" type="text/css">
+	<link href="css/information.css" rel="stylesheet" type="text/css">
+	
+	<meta name="Keywords" content="ラグビー,rugby,横浜">
+	<meta name="Description" content="横浜ラグビースクール">
+
+	<script type="text/javascript" language="javascript">
+	<!--
+	function keisan() {
+		// 協賛内容
+		var check0500 = document.support.Radio1.checked;
+		var check5000 = document.support.Radio2.checked;
+		var price = 500; // 単価を設定
+		if (check0500 == true) {
+			price = 500;
+		}
+		else if (check5000 == true) {
+			price = 5000;
+		}
+		// 口数
+		var num = document.support.Number.value;
+		// 合計を計算
+		var total = price * num;
+		// 設定終了
+		document.support.Total.value = total; // 合計を表示
+	}
+	// --> 
+	</script> 
+
+	<script type="text/javascript" language="javascript"> 
+	<!-- 
+	function check(){
+		var flag = 0;
+		// 設定開始（必須にする項目を設定してください）
+		if(document.support.Number.value == ""){		// 「口数」の入力をチェック
+			flag = 1;
+		}
+		else if(document.support.Date.value == ""){		// 「振込日」の入力をチェック
+			flag = 2;
+		}
+		else if(document.support.Name.value == ""){		// 「名前」の入力をチェック
+			flag = 3;
+		}
+		else if(document.support.Email.value == ""){	// 「メールアドレス」の入力をチェック
+			flag = 4;
+		}
+
+		//条件分岐
+		switch (flag) {
+		  case 1: window.alert("必須項目に未入力がありました！\n【口数】が未記入です。"); break;
+		  case 2: window.alert("必須項目に未入力がありました！\n【振込日】が未記入です。"); break;
+		  case 3: window.alert("必須項目に未入力がありました！\n【名前】が未記入です。"); break;
+		  case 4: window.alert("必須項目に未入力がありました！\n【メールアドレス】が未記入です。"); break;
+		  default :
+			return true; // 送信を実行
+		}
+		return false; // 送信を中止
+	}
+	// -->
+	</script>
+
+	<script type="text/javascript" src="./php/calendar.js" charset="Shift_JIS"></script>
+	<script type="text/javascript">
+	<!--
+		var cal1;
+		window.onload = function ()
+		{
+			cal1 = new JKL.Calendar("calid","contact-form","振込日");
+			if ( ! cal1.getFormValue() ) cal1.setFormValue();
+		}
+	// -->
+	</script>
+
+</head>
+
+<body>
+<h1>横浜ラグビースクール</h1>
+<div id="Container">
+
+<div id="Header"> 
+
+<div id="logo"><a href="http://yrs.boy.jp/"><img src="img/logo.gif" alt="横浜ラグビースクール"></a></div>
+<div id="head_link">
+<ul>
+<li><a href="sitemap.html">サイトマップ</a></li>
+<li><a href="privacy.html">プライバシーポリシー</a></li>
+<li><a href="mailto:yrs@ug.boy.jp">お問合わせ</a></li>
+
+</ul>
+</div>
+</div>
+
+<div id="Navi">
+<ul>
+<li id="n01"><a href="http://yrs.boy.jp/">トップページへ</a></li>
+<li id="n02"><a href="info.html">スクール紹介</a></li>
+<li id="n03"><a href="/schedule.html">練習日程</a></li>
+<li id="n04"><a href="./result.html">試合結果</a></li>
+<li id="n05"><a href="coach/coach.html">指導員用ページ</a></li>
+<li id="n06"><a href="./photo.html">集合写真</a></li>
+<li id="n07"><a href="link.html">リンク集</a></li>
+<li id="n08"><a href="http://www.yokohama-rs.com/" target="_blank">ブログ</a></li>
+</ul>
+</div>
+
+<div id="Main">
+
+<div id="left">
+	<ul>
+		<li class="sb11"><a href="info.html">スクール紹介</a></li>
+		<li class="sb12"><a href="chart.html">組織図</a></li>
+		<li class="sb13"><a href="schedule.html">年間スケジュール</a></li>
+		<li class="sb14"><a href="staff.html">指導員紹介</a></li>
+		<li class="sb15"><a href="guidance.html">指導概要</a></li>
+		<li class="sb16"><a href="safe.html">安全</a></li>
+		<li class="sb17"><a href="column.html">コラム</a></li>
+		<li class="sb18"><a href="ground.html">グラウンド</a></li>
+		<li class="sb19"><a href="entrance.html">入校申し込み</a></li>
+	</ul>
+	<div id="schedule"><a href="schedulem.shtml">練習日程</a></div>
+	<ul>
+		<li class="sb30"><a href="/keitai.html">携帯での使用方法</a></li>
+		<li class="sb00"><a href="bbs/photo01/photo.cgi">画像掲示板</a></li>
+		<li class="sb01"><a href="bbs/mobile01/index.html">全体掲示板</a></li>
+		<li class="sb02"><a href="bbs/mobile02/index.html">忘れ物掲示板</a></li>
+		<li class="sb03"><a href="bbs/mobile03/index.html">幼稚園クラス</a></li>
+		<li class="sb04"><a href="bbs/mobile04/index.html">小学1年生クラス</a></li>
+		<li class="sb05"><a href="bbs/mobile05/index.html">小学2年生クラス</a></li>
+		<li class="sb06"><a href="bbs/mobile06/index.html">小学3年生クラス</a></li>
+		<li class="sb07"><a href="bbs/mobile07/index.html">小学4年生クラス</a></li>
+		<li class="sb08"><a href="bbs/mobile08/index.html">小学5年生クラス</a></li>
+		<li class="sb09"><a href="bbs/mobile09/index.html">小学6年生クラス</a></li>
+		<li class="sb10"><a href="bbs/mobile10/index.html">中年生クラス</a></li>
+		<li class="sb20"><a href="bbs/mobile20/index.html">女子部クラス</a></li>
+	</ul>
+	<div id="Entrance"><a href="entrance.html">入校案内</a></div>
+</div>
+
+<div id="center">
+
+<h3><b>（2014年度）	横浜ラグビースクールサポーターズのご案内</b></h3>
+<hr>
+<br>
+<font size="4" color="blue"><b>□□□□□　協賛金へのご協力のお願い　□□□□□</b></font>
+<br>
+<br>
+
+<p>０Ｂはじめ皆様にはお元気でお過ごしでしょうか。</p>
+<p>この度、横浜ラグビースクールのジュニアが全国大会に進出することになりました。</p>
+
+<p>これも日頃から厳しい練習を積み重ねてきた生徒達の努力は勿論のこと、保護者の協力の賜物と存じます。</p>
+
+<p>目下、生徒達は、全国大会出場に向け更なるレベルアップを図るため練習に励んでおります</p>
+<p>そこでよりサポートするため、取り急ぎ経済面での協力を早急に皆様にお願いすることといたしました。</p>
+
+<p>なお、この協賛金については今期だけに留まらずこれからの生徒達の活躍をサポートする事を目的として活用していきたいと思います。</p>
+
+<br>
+<p>○協賛金振込口座</p>
+<p>　　横浜銀行　○×支店　普通預金</p>
+<p>　　店番号　０００　口座番号　０００００００</p>
+<p>　　口座名義　横浜ラグビースクール</p>
+<br>
+<p>○協賛金</p>
+<p>　　・個人協賛　　　　　500円/口</p>
+<p>　　・団体・企業協賛　　5000円/口</p>
+<p>　　なお、協賛口数は1口以上とする。</p>
+<br>
+<p>○活用目的</p>
+<p>　　・遠征費における費用</p>
+<p>　　・その他校長が必要と判断した場合</p>
+<br>
+<p>○特典等</p>
+<p>　　・個人協賛 5口以上の方にYRSノベリティグッズをプレゼントさせて頂く予定でおります。</p>
+<p>　　・1口以上でも、このホームページにて報告させていただきます。（非公開希望も可能です。）</p>
+<p>　　・団体・企業協賛の場合はホームページにバナー及びリンクをさせて頂きたいと思います。（1年間予定）</p>
+<br>
+<p>○協賛振込連絡</p>
+<form id="contact-form" name="support" action="./php/mail.php" method="post" onSubmit="return check()">
+	<table style="font-size : small;  line-height: 150%;  line-height: 150% ;">
+		<tbody>
+			<tr>
+				<th>協賛内容（必須）</th>
+				<td>
+					<input type="radio" id="Radio1" value="個人協賛" name="協賛種類" onChange="keisan()" checked>個人協賛(500円)
+					<input type="radio" id="Radio2" value="企業協賛" name="協賛種類" onChange="keisan()">企業協賛(5000円)
+				</td>
+			</tr>
+			<tr>
+				<th>口数（必須）</th>
+				<td><input type="number" id="Number" name="口数" value="1" onChange="keisan()">　口</td>
+			</tr>
+			<tr>
+				<th>金額（自動入力）</th>
+				<td><input style="background-color:#a0a0a0" type="number" id="Total" name="金額" value="500" readonly>　円</td>
+			</tr>
+			<tr>
+				<th>振込日（必須）</th>
+				<td>
+					<input type="text" id="Date" name="振込日" onClick="cal1.write();" onChange="cal1.getFormValue(); cal1.hide(); "><div id="calid"></div>
+				</td>
+			</tr>
+			<tr>
+				<th>お名前（必須）</th>
+				<td><input type="text" id="Name" name="名前" value=""><input type="checkbox" value="非公開" name="公開希望">←非公開希望の方はチェックしてください。</td>
+			</tr>
+			<tr>
+				<th>メールアドレス（必須）</th>
+				<td><input type="text" id="Email" name="Email" value=""></td>  
+			</tr>
+			<tr>
+				<th>備考</th>  
+				<td><textarea name="備考" rows="4" cols="40" value="" ></textarea>  
+				</td>
+			</tr>
+			<tr>
+				<th></th>  
+				<td>
+					<div class="bt">
+						<input type="submit" value="確認画面" name="ボタン">
+						<input type="reset"  value="フォームクリアー" name="reset">
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</form>
+<br>
+<p><b>※IPアドレスを記録しております。いたずらや嫌がらせ等はご遠慮ください</b></p>
+
+<br>
+<br>
+
+<center>
+<a href="./data/sponsorship_association_code.pdf">横浜ラグビースクール応援協賛会　会則</a>
+</center>
+</div>
+
+<div class="clear">&nbsp;</div>
+</div>
+
+<div id="Footer">
+<p>Copyright (C) 2009 Yokohama Rugby School All Rights Reserved.</p>
+</div>
+
+</div>
+</body>
+</html>

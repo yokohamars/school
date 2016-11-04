@@ -1,0 +1,24 @@
+@charset "Shift_JIS";
+
+/*** Center ***********************************************************/
+
+table {
+	border: 2px #660000 solid;
+	border-collapse:collapse;
+	border-spacing:2px;
+}
+td,tr,th {
+	border: 2px #660000 solid;
+	padding: 5px 10px;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+div#center {
+	width: 600px;
+	height: auto;
+	float: left;
+}
+

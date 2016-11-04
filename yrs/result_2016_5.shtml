@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja-JP">
+<!--#include file="yrs_header_result.html"-->
+<body>
+<!--#include file="result_header.html"-->
+		<div id="center">
+			<h2>試合結果</h2>
+			<IMG SRC="./img/2015.png">
+			<div align="center">
+				<p class="classNavi">　｜
+					<a href="result_2010_5.html">2010年度</a>　｜
+					<a href="result_2011_5.html">2011年度</a>　｜
+					<a href="result_2012_5.html">2012年度</a>　｜
+					<a href="result_2013_5.shtml">2013年度</a>　｜
+					<a href="result_2014_5.shtml">2014年度</a>　｜
+					<a href="result_2015_5.shtml">2015年度</a>　｜
+					<a href="result_2016_5.shtml">2016年度</a>　｜
+				</p>
+				<p class="classNavi">　｜
+					<a href="result_2016_y.shtml">幼稚園</a>　｜
+					<a href="result_2016_1.shtml">小1</a>　｜
+					<a href="result_2016_2.shtml">小2</a>　｜
+					<a href="result_2016_3.shtml">小3</a>　｜
+					<a href="result_2016_4.shtml">小4</a>　｜
+					<a href="result_2016_5.shtml">小5</a>　｜
+					<a href="result_2016_6.shtml">小6</a>　｜
+					<a href="result_2016_j.shtml">Jr</a>　｜
+				</p>
+			</div>
+			<div class="result">
+				<h3>5年生<img src="./img/new.gif"></h3>
+<br>
+<!--#include file="./result/2015_s5_20151115.html"-->
+<br>
+<!--#include file="./result/2015_s5_20151108.html"-->
+<br>
+<!--#include file="./result/2015_s5_20151103.html"-->
+<br>
+<!--#include file="./result/2015_s5_20151018.html"-->
+<br>
+<!--#include file="./result/2015_s5_20151012.html"-->
+<br>
+<!--#include file="./result/2015_s5_20150627.html"-->
+<br>
+<!--#include file="./result/2015_s5_20150531.html"-->
+<br>
+			</div>
+		</div>
+	</div>
+</div>
+<!--#include file="yrs_footer_result.html"-->
+</body>
+</html>
